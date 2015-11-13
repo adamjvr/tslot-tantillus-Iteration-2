@@ -2,6 +2,10 @@ tslot-tantillus
 ===============
 
 T-Slot frame for Tantillus 3D Printer
+Forked frmom goopyplastic's T-slot tantillus variant. This version instrodces new plates for mounting motors intenrntally and going motor to drive shaft with puleys and belts. The drive system wille be replaced to pulleys on the 8mm rod drive shafts and gt2 belt in place of spectra line. The major changes will be made to the motor plates and he corner brackets, they will all be replaced with different designs found elsewhere modifeid by me for the extrusion I have on hand. The rest of the changes will simply be changign the lengths aluminum extrusions relative to the new belt pully drive systen. This variant of Tantillus aims to be a small portable high end alumintum t-slot machien that is super simple to build (see belts) that will result in amazing resolutions. all CAD work will be done in FreeCAD
+
+
+OLD READMED
 
 Initial Version Assumes:
 
